@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I am Arthur</h1>
 <p align="center">
-  Full-stack Developer | ChatGBT Developer | Machine Learning Engineer
+  Software Engineer | Rust Developer
 </p>
 
 <p align="center">
