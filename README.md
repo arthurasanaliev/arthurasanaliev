@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 I am Arthur</h1>
-<p align="center">
-  Software Engineer | Rust Developer
-</p>
+<h3 align="center">Sowtware Engineer | Rust Developer</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/arthur-asanaliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-asanaliev" height="30" width="40" /></a>
